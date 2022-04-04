@@ -2,7 +2,7 @@
 
 h1{
   color: red;
-  font-size: 100px;
+  font-size: 50px;
 
 }
 
@@ -18,10 +18,11 @@ img:hover{
   background-color: blue;
 }
 
+/* id selector- used only once for a particular class */
 #heading {
   color: blue;
+}
 
-
-.circular{
+.circular { 
   border-radius: 100px;
 }
